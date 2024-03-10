@@ -1,0 +1,11 @@
+#+TITLE: sr-speedbar
+#+OPTIONS: toc:4
+
+# sr-speedbar
+
+sr-speedbar -- Speedbar window in the same frame.
+
+As of <2024-03-10 Sun 16:20> what is on MELPA and what is in doom is way too old
+and does not work right with emacs-28. So, i found this working version from
+emacswiki.org and am capturing it here for now. I hope that this turns out
+to be an interim meausre.

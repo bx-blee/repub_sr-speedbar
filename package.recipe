@@ -1,0 +1,4 @@
+(sr-speedbar
+  :fetcher github
+  :repo "bx-blee/repub_sr-speedbar"
+  :files ("*.el"))
